@@ -1,4 +1,4 @@
-It is an old archive version of CONCLUS. For the new version, please check https://github.com/PolinaPavlovich/CONCLUS.
+Warning: It is an old archive version of CONCLUS. For the new version, please check https://github.com/PolinaPavlovich/CONCLUS.
 
 # CONCLUS: from CONsensus CLUSters to a meaningful CONCLUSion
 
